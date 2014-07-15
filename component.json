@@ -1,0 +1,22 @@
+{
+  "name": "clear-environment",
+  "repo": "segmentio/clear-environment",
+  "description": "Clear cookies, images, script tags, native methods, timers, and event listeners for a clean test slate",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "yields/clear-timeouts": "*",
+    "yields/clear-intervals": "*",
+    "segmentio/clear-listeners": "*",
+    "segmentio/clear-globals": "*",
+    "segmentio/clear-images": "*",
+    "segmentio/clear-scripts": "*",
+    "segmentio/clear-cookies": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
