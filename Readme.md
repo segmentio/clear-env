@@ -1,5 +1,5 @@
 
-# clear-environment
+# clear-env
 
   Clear cookies, images, script tags, native methods, timers, and event listeners for a clean test slate
 
@@ -7,17 +7,17 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install segmentio/clear-environment
+    $ component install segmentio/clear-env
 
 ## API
 
-
+### clearEnv()
 
 ## License
 
   The MIT License (MIT)
 
-  Copyright (c) 2014 <copyright holders>
+  Copyright (c) 2014 friends@segment.io
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal

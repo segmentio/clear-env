@@ -1,6 +1,6 @@
 {
-  "name": "clear-environment",
-  "repo": "segmentio/clear-environment",
+  "name": "clear-env",
+  "repo": "segmentio/clear-env",
   "description": "Clear cookies, images, script tags, native methods, timers, and event listeners for a clean test slate",
   "version": "0.1.0",
   "keywords": [],
