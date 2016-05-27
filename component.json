@@ -2,7 +2,7 @@
   "name": "clear-env",
   "repo": "segmentio/clear-env",
   "description": "Clear cookies, images, script tags, native methods, timers, and event listeners for a clean test slate",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "keywords": [],
   "dependencies": {
     "yields/clear-timeouts": "^0.0.2",
