@@ -5,14 +5,14 @@
   "version": "0.2.0",
   "keywords": [],
   "dependencies": {
-    "yields/clear-timeouts": "*",
-    "yields/clear-intervals": "*",
-    "segmentio/clear-ajax": "*",
-    "segmentio/clear-listeners": "*",
-    "segmentio/clear-globals": "*",
-    "segmentio/clear-images": "*",
-    "segmentio/clear-scripts": "*",
-    "segmentio/clear-cookies": "*"
+    "yields/clear-timeouts": "^0.0.2",
+    "yields/clear-intervals": "^0.0.3",
+    "segmentio/clear-ajax": "^0.0.1",
+    "segmentio/clear-listeners": "^0.1.2",
+    "segmentio/clear-globals": "^0.1.0",
+    "segmentio/clear-images": "^0.1.0",
+    "segmentio/clear-scripts": "^0.2.0",
+    "segmentio/clear-cookies": "^0.1.0"
   },
   "development": {},
   "license": "MIT",
