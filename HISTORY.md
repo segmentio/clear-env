@@ -1,3 +1,8 @@
+2.0.0 / 2016-06-13
+==================
+
+  * Bump clear-intervals, clear-timeouts dependencies to only track new timeouts and intervals
+
 1.0.0 / 2016-05-30
 ==================
 

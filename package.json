@@ -1,6 +1,6 @@
 {
   "name": "@segment/clear-env",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Clear cookies, images, script tags, native methods, timers, and event listeners for a clean test slate",
   "keywords": [],
   "main": "lib/index.js",
