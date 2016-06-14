@@ -22,10 +22,10 @@
     "@segment/clear-cookies": "^1.0.0",
     "@segment/clear-globals": "^1.0.0",
     "@segment/clear-images": "^1.0.0",
-    "@segment/clear-intervals": "^1.0.0",
+    "@segment/clear-intervals": "^2.0.0",
     "@segment/clear-listeners": "^1.0.0",
     "@segment/clear-scripts": "^1.0.0",
-    "@segment/clear-timeouts": "^1.0.0"
+    "@segment/clear-timeouts": "^2.0.0"
   },
   "devDependencies": {
     "@segment/eslint-config": "^3.1.1",
