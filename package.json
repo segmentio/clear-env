@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/segmentio/clear-env#readme",
   "dependencies": {
-    "@segment/clear-ajax": "^1.0.0",
+    "@segment/clear-ajax": "^1.0.1",
     "@segment/clear-cookies": "^1.0.0",
     "@segment/clear-globals": "^1.0.0",
     "@segment/clear-images": "^1.0.0",
