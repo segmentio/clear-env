@@ -1,6 +1,6 @@
 {
   "name": "@segment/clear-env",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Clear cookies, images, script tags, native methods, timers, and event listeners for a clean test slate",
   "keywords": [],
   "main": "lib/index.js",
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/segmentio/clear-env#readme",
   "dependencies": {
     "@segment/clear-ajax": "^1.0.2",
-    "@segment/clear-cookies": "^2.0.0",
+    "@segment/clear-cookies": "^2.0.1",
     "@segment/clear-globals": "^1.0.0",
     "@segment/clear-images": "^1.0.0",
     "@segment/clear-intervals": "^2.0.0",
